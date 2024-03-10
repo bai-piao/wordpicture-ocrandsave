@@ -1,0 +1,2 @@
+# wordpicture-ocrandsave
+python
